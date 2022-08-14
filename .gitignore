@@ -1,0 +1,3 @@
+# Project exclude paths
+/m2-enum/target/
+/.idea/
