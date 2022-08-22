@@ -5,6 +5,7 @@ import java.util.stream.Collectors;
 
 public class FactoryMethodsDemo {
     public static void main(String[] args) {
+        //Can read, use, can not change
 
         //Creating unmodifiable List before Java9
         List<String> courses = Collections.unmodifiableList(Arrays.asList("Java", "Spring", "Agile"));
